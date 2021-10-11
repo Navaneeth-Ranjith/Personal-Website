@@ -372,7 +372,7 @@
                         children: [(0, s.jsx)("div", {
                             children: (0, s.jsx)("a", {
                                 href: "#",
-                                children: "Aj"
+                                children: "Nj"
                             })
                         }), (0, s.jsxs)("div", {
                             className: "flex gap-7",
