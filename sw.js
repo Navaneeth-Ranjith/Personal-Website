@@ -175,10 +175,10 @@ define("./sw.js", ["./workbox-21b21c9a"], (function(e) {
         url: "/images/certificates/webdevelopment-cert.webp",
         revision: "f14b8fe320a76ae0598d265159b92d61"
     }, {
-        url: "/images/projects/ajmoviesinfo1.webp",
+        url: "/images/projects/njmoviesinfo1.webp",
         revision: "3008a671730a741347a2ac836db3a26a"
     }, {
-        url: "/images/projects/ajwhatsapp.webp",
+        url: "/images/projects/njwhatsapp.webp",
         revision: "680a77b506d4713ec10ed9151557fcce"
     }, {
         url: "/images/projects/chainreaction.webp",
