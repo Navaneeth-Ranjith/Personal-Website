@@ -115,7 +115,7 @@
                         image: "chainreaction",
                         description: "Play Chain Reaction Online with your Friends. Developed by me.",
                         github: "https://github.com/Navaneeth-Ranjith/emojireaction",
-                        view: "...https://emojireaction.ajdaniel.gq/",
+                        view: "https://emojireaction.navaneeth.gq/",
                         features: ["Play Online", "Multiplayer", "Fun with Friends", "Chat"],
                         technologies: ["NodeJS", "SocketIO", "HTML", "CSS"],
                         indicator: "coming soon..."
